@@ -14,7 +14,7 @@ The official CLI looks for `config/application.config.php`. This wrapper looks f
 {
     "minimum-stability": "dev",
     "require": {
-        "yalesov/zf2-doctrine": "1.*"
+        "yalesov/zf2-doctrine": "2.*"
     }
 }
 ```

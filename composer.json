@@ -11,7 +11,7 @@
     "bin": ["bin/doctrine-cli"],
     "require": {
         "php": ">=5.3.3",
-        "yalesov/yaml": "1.*",
+        "yalesov/yaml": "2.*",
         "doctrine/doctrine-orm-module": "dev-master"
     },
     "license": "ISC",
