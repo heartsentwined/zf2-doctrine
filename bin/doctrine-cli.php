@@ -1,5 +1,5 @@
 <?php
-use Heartsentwined\Yaml\Yaml;
+use Yalesov\Yaml\Yaml;
 use Zend\Mvc\Application;
 
 ini_set('display_errors', true);
