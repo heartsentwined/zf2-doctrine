@@ -1,28 +1,28 @@
 {
-    "name": "yalesov/zf2-doctrine",
-    "description": "wrapper for DoctrineORMModule + DoctrineModule's CLI, tailored for yaml config files",
-    "keywords": ["cli", "zf2", "doctrine"],
-    "authors": [
-        {
-            "name": "Yulij Andreevich Lesov",
-            "email": "yalesov@gmail.com"
-        }
-    ],
-    "bin": ["bin/doctrine-cli"],
-    "require": {
-        "php": ">=5.3.3",
-        "yalesov/yaml": "2.*",
-        "doctrine/doctrine-orm-module": "dev-master"
-    },
-    "license": "ISC",
-    "homepage": "https://github.com/yalesov/zf2-doctrine",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/yalesov/zf2-doctrine"
-        }
-    ],
-    "support": {
-        "issues": "https://github.com/yalesov/zf2-doctrine/issues"
+  "name": "yalesov/zf2-doctrine",
+  "description": "wrapper for DoctrineORMModule + DoctrineModule's CLI, tailored for yaml config files",
+  "keywords": ["cli", "zf2", "doctrine"],
+  "authors": [
+    {
+      "name": "Yulij Andreevich Lesov",
+      "email": "yalesov@gmail.com"
     }
+  ],
+  "bin": ["bin/doctrine-cli"],
+  "require": {
+    "php": ">=5.3.3",
+    "yalesov/yaml": "2.*",
+    "doctrine/doctrine-orm-module": "dev-master"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/yalesov/zf2-doctrine",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/yalesov/zf2-doctrine"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/yalesov/zf2-doctrine/issues"
+  }
 }
