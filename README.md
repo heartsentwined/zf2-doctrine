@@ -12,10 +12,10 @@ The official CLI looks for `config/application.config.php`. This wrapper looks f
 
 ```json
 {
-    "minimum-stability": "dev",
-    "require": {
-        "yalesov/zf2-doctrine": "2.*"
-    }
+  "minimum-stability": "dev",
+  "require": {
+    "yalesov/zf2-doctrine": "2.*"
+  }
 }
 ```
 
